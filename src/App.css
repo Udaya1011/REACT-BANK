@@ -1,0 +1,15 @@
+.bank-name-overlay {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: beige;
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.7);
+  text-align: center;
+}
+
+.navbar .ms-auto {
+  margin-left: auto !important;
+}
